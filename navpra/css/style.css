@@ -1,0 +1,12 @@
+.a{
+    height: 650px;
+    width: 90% !important;
+    margin-left: 5% !important;
+}
+bold{
+    border-width: 3px;
+    border: 2px solid red;
+}
+td{
+    word-spacing: 50px;
+}
