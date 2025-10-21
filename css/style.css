@@ -1,0 +1,18 @@
+
+
+/* .box{
+    width: 400px;
+    height: 28px;
+    background-color: black;
+    color: white;
+    margin-bottom: 49px;
+    float: right;
+    margin-top: -37px;
+    margin-right: -405px;
+} */
+
+@media print{
+    .hid{
+        display: none;
+    }
+}

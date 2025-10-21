@@ -1,0 +1,22 @@
+*{
+    transition: 0.3s;
+    box-sizing: border-box;
+}
+@media print{
+
+    .hid{
+        display: none;
+    }
+}
+
+.box{
+    width: 200px;
+    height: 100px;
+    background-color: black;
+    color: white;
+}
+#box1{
+    width: 200px;
+    height: 100px;
+    background-color: purple;
+}

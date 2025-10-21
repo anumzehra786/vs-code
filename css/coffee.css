@@ -600,3 +600,16 @@ input[type="checkbox"] {
 .nav+input[type="checkbox"]:checked+.resnav {
     height: 500px;
 }
+body
+{
+	margin: 0;
+	padding: 0;
+}
+
+.div-1{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 30px;
+    align-items: center;
+}
